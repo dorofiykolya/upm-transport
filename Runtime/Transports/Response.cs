@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Unity.Plastic.Newtonsoft.Json;
 using HttpTransport.Handlers;
+using Newtonsoft.Json;
 
 namespace HttpTransport.Transports
 {

@@ -2,9 +2,9 @@
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using Unity.Plastic.Newtonsoft.Json;
-using Unity.Plastic.Newtonsoft.Json.Serialization;
 using HttpTransport.Transports;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
 
 namespace HttpTransport.Handlers
 {

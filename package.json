@@ -1,7 +1,7 @@
 {
   "name": "dorofiykolya.upm-http-transport",
   "displayName": "HTTP Transport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "author": "https://github.com/dorofiykolya",
   "description": "require .NET 4x\n",
