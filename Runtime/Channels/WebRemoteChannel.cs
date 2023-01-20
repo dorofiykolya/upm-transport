@@ -10,8 +10,8 @@ namespace HttpTransport.Channels
 {
     public class WebRemoteChannel : IChannel
     {
-        public const int TimeoutSeconds = 7;
-        public const int RetryCount = 3;
+        public int TimeoutSeconds = 7;
+        public int RetryCount = 3;
 
         private readonly Lifetime _lifetime;
         private readonly PacketMessageQueue _packetQueue = new PacketMessageQueue();
